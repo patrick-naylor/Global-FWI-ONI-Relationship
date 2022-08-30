@@ -1,0 +1,8 @@
+FWI_nc's/
+data/aggregate_data.nc
+data/aggregate_data_PN.nc
+data/aggregate_data_2.nc
+data/aggregate_data_7.nc
+data/aggregate_data_9.nc
+data/aggregate_data_6.nc
+data/aggregate_data_10.nc
